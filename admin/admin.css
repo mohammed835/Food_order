@@ -1,0 +1,89 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Crimson Text', serif;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+body {
+    background-color: #ccc;
+    color: #333;
+    font-family:  'Arial Narrow', Arial, sans-serif;
+}
+/*admin page*/
+.wrapper {
+    width: 80%;
+    padding: 10px;
+    margin: 0 auto;
+}
+ul{
+    list-style: none;
+    text-align: center;
+}
+ul li{
+    display: inline-block;
+    padding: 5px;
+    text-transform: capitalize;
+
+}
+li a {
+    text-decoration: none;
+    color: #333;
+    font-size: 20px;
+}
+li a:hover {
+    color: #1186b8;
+}
+
+
+/* manage admin table start */
+.btn-primary {
+    background-color: #733ba4;
+    text-transform: capitalize;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 15px;
+    
+    margin: 10px;
+}
+.session {
+    background-color: #f00;
+}
+/* manage table end  */
+
+/* add admin  */
+.add_admin {
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+}
+.add_admin input {
+    padding: 10px;
+    margin: 60px auto;
+    /* text-align: center; */
+    display: block;
+    border: none;
+    width: 60%;
+    border-radius: 15%;
+    color: #222;
+    font-weight: bold;
+    font-size: px;
+}
+/* add admin end */
+.add_category {
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+}
+
+.feature {
+    margin: 60px;
+}
+/* footer  */
+.footer {
+    text-align: center;
+    background-color: #333;
+    color: #ccc;
+    width: 100%;
+}

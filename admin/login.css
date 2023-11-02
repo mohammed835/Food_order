@@ -1,0 +1,20 @@
+body {
+    background-color: #333;
+    color: #333;
+}
+.login {
+    background-color: #fff;
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    margin: 100px auto;
+}
+.login input {
+    display: block;
+    margin: 30px auto;
+    width: 70%;
+    padding: 10px;
+    border-radius: 15%;
+    font-weight: bold;
+    
+}
